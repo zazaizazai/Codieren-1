@@ -1,6 +1,6 @@
-PWD c:\Users\minaz\Desktop\Codieren
-INPUT C:\Users\minaz\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\minaz\Desktop\Codieren\new.tex
+PWD c:\Users\farha\OneDrive\Desktop\Leer\Codieren
+INPUT C:\Users\farha\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\farha\OneDrive\Desktop\Leer\Codieren\new.tex
 OUTPUT new.log
 INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
@@ -33,7 +33,7 @@ INPUT new.aux
 INPUT new.aux
 OUTPUT new.aux
 OUTPUT new.pdf
-INPUT C:\ProgramData\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\Users\farha\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT new.aux
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb

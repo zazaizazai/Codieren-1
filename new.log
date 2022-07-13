@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.30)  12 JUL 2022 17:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.13)  13 JUL 2022 14:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/minaz/Desktop/Codieren/new.tex
-(c:/Users/minaz/Desktop/Codieren/new.tex
-LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-02-24> (C:\Program Files\MiKTeX\tex/latex/base\article.cls
+**c:/Users/farha/OneDrive/Desktop/Leer/Codieren/new.tex
+(c:/Users/farha/OneDrive/Desktop/Leer/Codieren/new.tex
+LaTeX2e <2022-06-01> patch level 3
+L3 programming layer <2022-06-16> (C:\Program Files\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
 (C:\Program Files\MiKTeX\tex/latex/base\size10.clo
 File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
@@ -23,9 +23,9 @@ File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
 ) (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2022-04-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count193
-\l__pdf_internal_box=\box50
+\l__pdf_internal_box=\box51
 ) (new.aux)
 \openout1 = `new.aux'.
 
@@ -49,17 +49,17 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 4.
  [1
 
-{C:/ProgramData/MiKTeX/fonts/map/pdftex/pdftex.map}] (new.aux) ) 
+{C:/Users/farha/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (new.aux) ) 
 Here is how much of TeX's memory you used:
- 406 strings out of 478582
- 7516 string characters out of 2854159
- 296449 words of memory out of 3000000
- 18673 multiletter control sequences out of 15000+600000
+ 428 strings out of 478351
+ 8293 string characters out of 2846867
+ 304814 words of memory out of 3000000
+ 18926 multiletter control sequences out of 15000+600000
  469259 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,5n,38p,170b,107s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 34i,5n,38p,184b,107s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-Output written on new.pdf (1 page, 34506 bytes).
+Output written on new.pdf (1 page, 33873 bytes).
 PDF statistics:
  21 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
